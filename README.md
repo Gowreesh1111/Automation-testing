@@ -4,7 +4,7 @@
 
 ### Web testing practice projects by Gowreesh G
 
-![Selenium Automation animated banner](auto_test/assets/selenium-automation.gif>
+![Selenium Automation animated banner](auto_test/assets/selenium-automation.gif)
 )
 
 **Python** · **Selenium WebDriver** · **Browser Automation** · **Software Testing**
